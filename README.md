@@ -8,9 +8,9 @@ Me presento como *smil:)* y soy programdor aca estare exportando mis proyectos y
 ####
 **Codigos que domino**
 * Python
-*Llevo 3 años aprendiendo y desarrollando en el mismo*
+-*Llevo 3 años aprendiendo y desarrollando en el mismo*
 * Java
-*tengo una experiencia en el mismo de 3 años* 
+-*tengo una experiencia en el mismo de 3 años* 
 * Html
 * Css
 * Lua
