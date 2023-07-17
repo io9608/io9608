@@ -12,4 +12,16 @@ Me presento como *smil:)* y soy programdor aca estare exportando mis proyectos y
 * Html
 * Css
 * Lua
->>**varios años de practica en los mismos** 
+>**varios años de practica en los mismos** 
+#####
+# **Redes Sociales**
+Discord
+>
+Instagram
+>
+Twitter
+>
+Telegram
+>
+Web
+>
