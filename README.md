@@ -1,9 +1,10 @@
 <div style="display: flex; align-items: center;">
-    <img src="https://github.com/io9608/Pictures/blob/main/Banner/banner.jpg" alt="Descripción" style="width: 100px; height: auto; margin-right: 10px;">
+    <img src="https://github.com/io9608/Pictures/blob/main/Banner/banner.jpg" alt="Descripción" style="width: 50px; height: auto; margin-right: 30px;">
     <h1>Hola, soy <strong>Tu Nombre</strong></h1>
 </div>
 
 --
+#
 Me presento como *smil:)* y soy programdor aca estare exportando mis proyectos y conocimientos
 ##
 **Como puedes contactarme**
